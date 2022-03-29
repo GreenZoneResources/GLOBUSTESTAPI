@@ -1,0 +1,13 @@
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\obj\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\obj\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.AssemblyInfoInputs.cache
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\obj\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.AssemblyInfo.cs
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\obj\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\bin\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.deps.json
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\bin\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.runtimeconfig.json
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\bin\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.runtimeconfig.dev.json
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\bin\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.dll
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\bin\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.pdb
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\obj\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.dll
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\obj\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.pdb
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\obj\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.genruntimeconfig.cache
+C:\Users\FINTRAK-MMBS\source\repos\GlobusCustomerAPI\GlobusCustomerAPI.Data\obj\Debug\netcoreapp3.1\GlobusCustomerAPI.Data.csproj.AssemblyReference.cache
